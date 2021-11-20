@@ -1,4 +1,4 @@
-package com.technoelevate.Inheritance;
+package com.technoelevate.myHydBatch.Inheritance;
 
 public class Animal {
 

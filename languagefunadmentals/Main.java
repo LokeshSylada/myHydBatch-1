@@ -1,4 +1,4 @@
-package com.technoelevate.languagefunadmentals;
+package com.technoelevate.myHydBatch.languagefunadmentals;
 
 public class Main {
 

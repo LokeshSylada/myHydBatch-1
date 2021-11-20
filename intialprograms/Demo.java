@@ -1,4 +1,4 @@
-package com.technoelevate.intialprograms;
+package com.technoelevate.myHydBatch.intialprograms;
 
 public class Demo {
 	public static void main(String[] args) {
