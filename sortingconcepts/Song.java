@@ -41,7 +41,4 @@ public class Song implements Comparable<Song>{
 		return "Song [name=" + name + ", singer=" + singer + ", releaseYear=" + releaseYear + "]";
 	}
 
-	
-	
-	
 }
